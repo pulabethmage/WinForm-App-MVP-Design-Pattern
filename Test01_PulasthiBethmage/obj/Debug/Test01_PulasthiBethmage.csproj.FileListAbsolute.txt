@@ -1,0 +1,9 @@
+E:\STAR Garment\Test01_PulasthiBethmage\Test01_PulasthiBethmage\bin\Debug\Test01_PulasthiBethmage.exe.config
+E:\STAR Garment\Test01_PulasthiBethmage\Test01_PulasthiBethmage\bin\Debug\Test01_PulasthiBethmage.exe
+E:\STAR Garment\Test01_PulasthiBethmage\Test01_PulasthiBethmage\bin\Debug\Test01_PulasthiBethmage.pdb
+E:\STAR Garment\Test01_PulasthiBethmage\Test01_PulasthiBethmage\obj\Debug\Test01_PulasthiBethmage.csprojResolveAssemblyReference.cache
+E:\STAR Garment\Test01_PulasthiBethmage\Test01_PulasthiBethmage\obj\Debug\Test01_PulasthiBethmage.Form1.resources
+E:\STAR Garment\Test01_PulasthiBethmage\Test01_PulasthiBethmage\obj\Debug\Test01_PulasthiBethmage.Properties.Resources.resources
+E:\STAR Garment\Test01_PulasthiBethmage\Test01_PulasthiBethmage\obj\Debug\Test01_PulasthiBethmage.csproj.GenerateResource.Cache
+E:\STAR Garment\Test01_PulasthiBethmage\Test01_PulasthiBethmage\obj\Debug\Test01_PulasthiBethmage.exe
+E:\STAR Garment\Test01_PulasthiBethmage\Test01_PulasthiBethmage\obj\Debug\Test01_PulasthiBethmage.pdb
